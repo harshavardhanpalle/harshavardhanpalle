@@ -93,8 +93,8 @@ open to    : "Learning together · feedback · good conversations"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshavardhanpalle&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanpalle&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshavardhanpalle&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanpalle&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" height="165"/>
 
 <br/>
 
