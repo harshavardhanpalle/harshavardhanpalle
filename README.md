@@ -23,7 +23,7 @@
 
 I'm currently in a focused learning phase — building real skills, not just collecting them.
 
-My work orbits around**Python · SQL ·** and solving problems that are small, practical, and actually useful. I'm working towards being interview-ready while staying grounded in fundamentals.
+My work orbits around** · Python · SQL ·** and solving problems that are small, practical, and actually useful. I'm working towards being interview-ready while staying grounded in fundamentals.
 
 I don't rush the process. I trust it.
 
